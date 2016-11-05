@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:background="#a9a9a9" android:paddingLeft="5sp" android:clickable="false" android:layout_width="-1" android:layout_height="-2">
+    <TextView android:textSize="14sp" android:typeface="1" android:textColor="#ffffff" android:id="@id/titanium_ui_list_header_or_footer_title" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="-2" android:layout_height="-2" />
+</LinearLayout>
